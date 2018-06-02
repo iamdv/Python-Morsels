@@ -5,8 +5,4 @@ def get_earliest(first_date, second_date):
   return first_date if new_first_date < new_second_date else second_date
 
 
-# print(20160240 > 20160301)
-# print(get_earliest('02/40/2006', '03/01/2006'))
-
-
 
